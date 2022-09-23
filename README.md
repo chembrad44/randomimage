@@ -5,3 +5,6 @@ Elise Bahls (elisebahls44@gmail.com)
 
 # randomimage
 Generates a random image
+
+Has two inputs: height and width
+
